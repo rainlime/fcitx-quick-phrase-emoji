@@ -1,0 +1,1 @@
+# fcitx-quick-phrase-emoji
